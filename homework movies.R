@@ -1,3 +1,4 @@
+# test git
 getwd()
 setwd( "C:\\Users\\angelineamber\\Desktop\\R Tutorial\\P2-Section6-Homework-Data")
 read.csv("Section6-Homework-Data.csv")
